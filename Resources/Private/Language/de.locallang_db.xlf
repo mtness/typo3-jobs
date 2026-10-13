@@ -95,6 +95,10 @@
         <source>Filters</source>
         <target>Filter</target>
       </trans-unit>
+      <trans-unit id="flexform.showFilter">
+        <source>Show filter</source>
+        <target>Filter anzeigen</target>
+      </trans-unit>
       <trans-unit id="flexform.sheet.general">
         <source>General</source>
         <target>Allgemein</target>

@@ -23,4 +23,5 @@ plugin.tx_jobs {
             logo = {$jobs.organization.logo}
         }
     }
+    ignoreFlexFormSettingsIfEmpty = itemsPerPage
 }
